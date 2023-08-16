@@ -1,16 +1,11 @@
 # BlacktownBar frontend
 
-
-
 - [NextJS Blacktown Bar Frontend](#BlacktownBar-frontend)
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
 - [Quickstart](#quickstart)
 - [Thank you!](#thank-you)
 
-This project is a part of the Hardhat FreeCodeCamp video.
-
-Video coming soon...
 
 # Getting Started
 
